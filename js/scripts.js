@@ -7,6 +7,8 @@
 // Scripts
 // 
 
+//Aquí van las funciones de la página web
+
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
